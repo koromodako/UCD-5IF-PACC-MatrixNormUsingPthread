@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   mat_ops.c
-Author: paul dautry
+Author: koromodako
 Date:   2016-10-19
 Purpose:
     This file contains the implementation of operations on matrices listed in 

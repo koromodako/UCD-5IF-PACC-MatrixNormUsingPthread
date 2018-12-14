@@ -1,7 +1,7 @@
 #!/bin/bash
 #------------------------------------------------------------------------------
 # File:     benchmark.sh
-# Author:   paul dautry
+# Author:   koromodako
 # Date:     2016-10-21
 # Purpose:
 #       This file tests matrix norm program for 2^x values both in serial and 

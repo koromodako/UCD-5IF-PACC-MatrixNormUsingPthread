@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   main.c
-Author: paul dautry
+Author: koromodako
 Date:   2016-10-21
 Purpose:
     Contains program entry point and parallel and serial code functions.

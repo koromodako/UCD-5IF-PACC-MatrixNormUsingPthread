@@ -1,6 +1,6 @@
 #------------------------------------------------------------------------------
 # File: 	Makefile
-# Author:	paul dautry
+# Author:	koromodako
 # Date:     2016-10-21
 # Purpose:
 #		Compile distmatnorm program used to benchmark matrix multiplication 

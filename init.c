@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   init.c
-Author: paul dautry
+Author: koromodako
 Date:   2016-10-19
 Purpose:
     Contains function implementations related to matrix initialisation.

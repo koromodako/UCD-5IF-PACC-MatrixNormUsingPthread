@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   mat_thd_ops.c
-Author: paul dautry
+Author: koromodako
 Date:   2016-10-19
 Purpose:
     This file contains the implementation of thread routines operating on 

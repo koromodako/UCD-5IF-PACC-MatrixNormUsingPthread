@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   debug.h
-Author: paul dautry
+Author: koromodako
 Date:   2016-10-20
 Purpose:
     This file contains the definitions of debug operations on matrices

@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   mat_thd_ops.h
-Author: paul dautry
+Author: koromodako
 Date:   2016-10-19
 Purpose:
     This file contains the definition of thread routines operating on matrices

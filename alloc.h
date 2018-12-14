@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   alloc.h
-Author: paul dautry
+Author: koromodako
 Date:   2016-10-19
 Purpose:
     This file defines the implementation of allocation/free operations on 
